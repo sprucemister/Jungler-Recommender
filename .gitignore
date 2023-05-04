@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+README.html
+*.Rproj
+Match_Data/*
+Match_Data/
+!Match_Data/my_matches_TEMPLATE.csv
+!/my_matches_TEMPLATE.csv
+c_models.rds
